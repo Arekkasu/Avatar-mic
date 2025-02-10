@@ -1,0 +1,3 @@
+sounddvice
+numpy
+PyQt5
